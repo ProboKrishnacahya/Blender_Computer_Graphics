@@ -1,0 +1,6 @@
+Texture:
+- Atap (https://jooinn.com/roof-texture.html)
+- Tiang (https://jooinn.com/wood-panel-texture-2.html)
+- Bangunan (https://jooinn.com/wood-panels-texture.html)
+- Pondasi (https://www.myfreetextures.com/wood-floor-texture-seamless-rich-wood-patterns/)
+- Batik (https://www.etsy.com/listing/989881279/)
